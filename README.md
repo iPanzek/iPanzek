@@ -1,6 +1,6 @@
 
 <h2 align="center">Peter Anny-Nzekwue, PhD</h2>
-<h4 align="center">Coder, scholar, thinker, literary critic...</h4>
+
 
 ![Profile views](https://gpvc.arturio.dev/iPanzek)  
 - 💬 Skills: React (Hooks) | JavaScript | HTML | CSS  
