@@ -1,9 +1,6 @@
 
 <h2 align="center">Peter Anny-Nzekwue, PhD</h2>
 <h4 align="center">Coder, scholar, thinker, literary critic...</h4>
-<p align="center">
-  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
-</p>
 
 ![Profile views](https://gpvc.arturio.dev/iPanzek)  
 - 💬 Skills: React (Hooks) | JavaScript | HTML | CSS  
