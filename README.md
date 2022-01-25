@@ -1,5 +1,5 @@
 
-<h2 align="center">Peter Anny-Nzekwue, PhD</h2>
+<h2 align="center">Peter Anny-Nzekwue</h2>
 
 
 ![Profile views](https://gpvc.arturio.dev/iPanzek)  
