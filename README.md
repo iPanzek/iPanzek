@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋,</h2>
+<h2 align="center">Hi 👋, I am...</h2>
 
 <p align="center">
   <img width="1400" src="https://xclusive.ng/wp-content/uploads/2022/01/panzek_github.jpg" alt="Panzek">
