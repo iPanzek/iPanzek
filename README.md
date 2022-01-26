@@ -7,8 +7,8 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/iPanzek)  
-- 💬 Skills: React (Hooks) | JavaScript | ExpressJS | Node.js  
+![Profile views](https://gpvc.arturio.dev/panzek)  
+- 💬 Skills: React (Hooks) | JavaScript (ES6) | ExpressJS | Node.js | HTML5 | CSS3   
 - 🌱 Currently learning: Python | jQuery | Next.js 
 - 📫 How to reach me: panzek@yahoo.co.uk 
 
