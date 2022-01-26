@@ -5,11 +5,9 @@
   <img width="1400" src="https://xclusive.ng/wp-content/uploads/2022/01/panzek_github.jpg" alt="Panzek">
 </p>
 
-
-
 ![Profile views](https://gpvc.arturio.dev/panzek)  
-- 💬 Skills: React (Hooks) | JavaScript (ES6) | ExpressJS | Node.js | HTML5 | CSS3   
-- 🌱 Currently learning: Python | jQuery | Next.js 
+- 💬 Skills: `React (Hooks)` | `JavaScript (ES6)` | `ExpressJS` | `Node.js` | `HTML5` | `CSS3`   
+- 🌱 Currently learning: `Python` | `jQuery` | `Next.js` 
 - 📫 How to reach me: panzek@yahoo.co.uk 
 
 <p align="center">
