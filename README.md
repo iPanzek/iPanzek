@@ -8,7 +8,7 @@
 ![Profile views](https://gpvc.arturio.dev/panzek)  
 - 💬 Skills: `React (Hooks)` | `JavaScript (ES6)` | `ExpressJS` | `MongoDB` | `Node.js` | `HTML5` | `CSS3`    
 - 🌱 Currently learning: `Python` | `Django` | `jQuery` | `SQL` | `Next.js` 
-- 📫 How to reach me: panzek@yahoo.co.uk 
+- 📫 How to reach me: [panzek@yahoo.co.uk](https://www.linkedin.com/in/panzek/) 
 
 <p align="center">
 <a href="https://github.com/ipanzek/github-streak-stats">
