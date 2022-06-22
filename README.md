@@ -11,7 +11,7 @@
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/panzek/) 
 
 &nbsp;  
-## 💼**Technical Skill**
+## 💼**Technical Skills**
 | **Languages**  | **Frameworks & Libraries** | **Database Management** | **Version Control** | **Hosting** | **Design** |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)  | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  | ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)  | ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)  | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)  |
