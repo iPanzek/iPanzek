@@ -8,7 +8,7 @@
 ![Profile views](https://gpvc.arturio.dev/panzek)  
 - 💬 Skills: `React (Hooks)` | `JavaScript (ES6)` | `ExpressJS` | `MongoDB` | `Node.js` | `HTML5` | `CSS3`    
 - 🌱 Currently learning: `Python` | `Django` | `jQuery` | `SQL` | `Next.js` 
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/panzek/) 
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/panzek/) | [Twitter](https://twitter.com/iPanzek) | [Instagram](https://www.instagram.com/panzek/)
 
 &nbsp;  
 ## 💼**Technical Skills**
