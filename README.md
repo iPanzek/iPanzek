@@ -6,8 +6,8 @@
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/panzek)  
-- 💬 Skills: `React (Hooks)` | `JavaScript (ES6)` | `ExpressJS` | `MongoDB` | `Node.js` | `HTML5` | `CSS3`    
-- 🌱 Currently learning: `Python` | `Django` | `jQuery` | `SQL` | `Next.js` 
+- 💬 Skills: `Python` | `Django` | `jQuery` | `SQL` | `React (Hooks)` | `JavaScript (ES6)` | `ExpressJS` | `MongoDB` | `Node.js` | `HTML5` | `CSS3`    
+- 🌱 Currently learning: `Next.js` 
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/panzek/) | [Twitter](https://twitter.com/iPanzek) | [Instagram](https://www.instagram.com/panzek/)
 
 &nbsp;  
