@@ -21,7 +21,13 @@
 
 &nbsp;
 ## **Projects**
-#### **My Select Awesome Projects:**
+#### **My Portfolio Projects:**
+[Bessie + Beau](https://bessiebeau.herokuapp.com/):
+- **Bessie + Beau** is a full-stack e-commerce application for a luxury women fashion and beauty store. The application provides the functionality to process orders, and accept payments. ***Technology Stack:*** *HHTML5, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL, ElephantSQL for hosting and managing PostgreSQL DB, Heroku for hosting the deployed site, Amazon AWS for hosting media*, and *Stripe API for payments*. ![Bessie + Beau](https://github.com/panzek/portfolio5-bessie-beau/blob/main/media/docs/img/bessie-beau-mockup.webp) 
+
+[CuisinePlus](https://cuisine-plus.herokuapp.com/):
+- **CuisinePlus** is an online restaurant reservation platform for diners. It provides full CRUD functionality reservations: users can create, read, update, and delete reservations. ***Technology Stack:*** *HTML5, CSS with Bootstrap, JavaScript, Python, Django framework, PostgreSQL, ElephantSQL for hosting and managing PostgreSQL DB, Heroku for hosting the deployed site*, and *Cloudinary for hosting media*. ![CuisinePlus](https://github.com/panzek/portfolio4-cuisine-plus/blob/main/docs/images/cuisine-plus-mockup.png)
+
 [Mortgage Advisor](https://mortgage-advisor.herokuapp.com/):
 - **Mortgage Advisor** is a mortgage calculator application for **first-time buyers (FTB)** of residential property in Ireland. It is a basic app, interactive, and easy to use. ***Technology Stack:*** *HTML, CSS, JavaScript* and *Python*. ![Mortgage Advisor](https://github.com/panzek/portfolio3-mortgage-advisor/blob/main/doc/images/mortgage-advisor-mockup.png)
 
